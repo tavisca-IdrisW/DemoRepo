@@ -1,0 +1,6 @@
+Method: Int32 GetBlance() of Class: AccountInfo Accessed At: 
+Method: Void Display() of Class: AccountInfo Accessed At: 
+Method: Int32 GetBlance() of Class: AccountInfo Accessed At: 
+Method: Void Display() of Class: AccountInfo Accessed At: 
+Method: Int32 GetBlance() of Class: AccountInfo Accessed At: 
+Method: Void Display() of Class: AccountInfo Accessed At: 

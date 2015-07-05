@@ -1,0 +1,6 @@
+c:\users\idrisw\documents\visual studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\bin\Debug\CustomAttributesApp.exe.config
+C:\Users\idrisw\Documents\Visual Studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\obj\Debug\CustomAttributesApp.csprojResolveAssemblyReference.cache
+C:\Users\idrisw\Documents\Visual Studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\bin\Debug\CustomAttributesApp.exe
+C:\Users\idrisw\Documents\Visual Studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\bin\Debug\CustomAttributesApp.pdb
+C:\Users\idrisw\Documents\Visual Studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\obj\Debug\CustomAttributesApp.exe
+C:\Users\idrisw\Documents\Visual Studio 2012\Projects\CustomAttributesApp\CustomAttributesApp\obj\Debug\CustomAttributesApp.pdb
