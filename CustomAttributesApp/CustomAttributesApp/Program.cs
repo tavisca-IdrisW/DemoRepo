@@ -1,11 +1,14 @@
-using System;
+﻿using System;
 using System.Reflection;
 
-/**
-* TODO ADD COMMENTS>>>
-*/
 namespace CustomAttributesApp
 {
+    /**
+     * Mainclass Will simply contain the Main Method.
+     * 
+     * An objetc of the AccountInfo Class will be created inside Main.
+     * We will call the Display Method form here. 
+     */
     public class MainClass
     {
         public static void Main(string[] args)

@@ -1,5 +1,11 @@
 ﻿using System;
 
+/**
+ * DevInfo is a Custom Attribute wich will track the access
+ * timing of the method. It will store this data into the 
+ * CurrentTime string.
+ * 
+ */
 namespace CustomAttributesApp
 {
 

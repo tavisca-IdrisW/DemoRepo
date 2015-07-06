@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Reflection;
 
+/**
+ * AccountInfo is a class to written test the Logging. 
+ */
+
 namespace CustomAttributesApp
 {
     class AccountInfo
